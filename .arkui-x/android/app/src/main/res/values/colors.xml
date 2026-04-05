@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launch_bg_light">#F2F5F8</color>
+    <color name="launch_bg_dark">#0B0E14</color>
+    <color name="transparent">#00000000</color>
+</resources>

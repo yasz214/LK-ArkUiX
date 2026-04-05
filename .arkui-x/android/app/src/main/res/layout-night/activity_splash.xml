@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/launch_bg_dark"
+    android:fitsSystemWindows="false">
+
+    <!-- 应用图标 -->
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/icon"
+        android:scaleType="fitCenter" />
+
+    <!-- 应用名称 (深色模式下白色文字) -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="24sp"
+        android:textColor="#E2E8F0"
+        android:fontFamily="sans-serif-medium"
+        android:letterSpacing="0.15"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+{
+  "name": "libarticle_parser.so",
+  "types": "./index.d.ts",
+  "version": "1.0.0",
+  "description": "Article Parser Native C++ Library — single-pass BBCode/HTML state machine"
+}

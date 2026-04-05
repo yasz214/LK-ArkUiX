@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "app_bg",
+      "value": "#F2F5F8"
+    },
+    {
+      "name": "card_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1E293B"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#64748B"
+    },
+    {
+      "name": "acrylic_tint",
+      "value": "#D9FFFFFF"
+    },
+    {
+      "name": "tabbar_fg",
+      "value": "#94A3B8"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#F2F5F8"
+    },
+    {
+      "name": "placeholder_bg",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "disabled_fg",
+      "value": "#999999"
+    },
+    {
+      "name": "disabled_bg",
+      "value": "#999999"
+    },
+    {
+      "name": "theme_tint_bg",
+      "value": "#140AA6A6"
+    },
+    {
+      "name": "theme_tint_bg_strong",
+      "value": "#1F0AA6A6"
+    },
+    {
+      "name": "exp_bar_bg",
+      "value": "#1F0AA6A6"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "#999999"
+    }
+  ]
+}

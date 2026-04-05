@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "轻之国度鸿蒙版客户端"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "提供轻小说搜索、阅读、历史与收藏服务（目前功能很不完善）"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "轻之国度"
+    },
+    {
+      "name": "network_reason",
+      "value": "应用需要网络访问权限来获取小说内容"
+    },
+    {
+      "name": "wifi_reason",
+      "value": "应用需要检测WIFI连接状态以决定是否提供预加载服务"
+    }
+  ]
+}

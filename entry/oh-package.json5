@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libt2s.so": "file:./src/main/cpp/types/libt2s",
+    "libarticle_parser.so": "file:./src/main/cpp/types/libarticle_parser"
+  }
+}
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用主题：消除启动白屏 + 沉浸式状态栏 -->
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- 启动时窗口背景色，与 ArkUI 侧浅色模式一致 -->
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+        <!-- 沉浸式状态栏：透明 -->
+        <item name="android:statusBarColor">@color/transparent</item>
+        <!-- 导航栏透明 -->
+        <item name="android:navigationBarColor">@color/transparent</item>
+        <!-- 浅色状态栏内容（深色图标/文字） -->
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- 全屏布局，内容延伸到状态栏下方 -->
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <!-- 禁用窗口入场动画，减少闪烁 -->
+        <item name="android:windowDisablePreview">false</item>
+        <!-- 确保窗口不是半透明的 -->
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+</resources>
