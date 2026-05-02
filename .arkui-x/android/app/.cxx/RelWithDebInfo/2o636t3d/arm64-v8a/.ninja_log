@@ -1,0 +1,9 @@
+# ninja log v5
+2	4110	7993905570527920	CMakeFiles/t2s.dir/C_/Users/21403/DevEcoStudioProjects/LK3/entry/src/main/cpp/t2s_engine.cpp.o	1605e37c8135049c
+154	6299	7993905591607772	CMakeFiles/article_parser.dir/C_/Users/21403/DevEcoStudioProjects/LK3/entry/src/main/cpp/article_parser.cpp.o	1d5ff5eccff2d7f7
+17	963	7994319107110441	C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/build/intermediates/cxx/RelWithDebInfo/2o636t3d/obj/arm64-v8a/libt2s.so	cfa610f4f3f4e2e1
+34	1620	7994319113798030	C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/build/intermediates/cxx/RelWithDebInfo/2o636t3d/obj/arm64-v8a/libarticle_parser.so	83cae54f66c82fb0
+16	1609	7994410783959389	CMakeFiles/t2s.dir/C_/Users/21403/DevEcoStudioProjects/LK3/entry/src/main/cpp/t2s_engine.cpp.o	1605e37c8135049c
+103	2114	7994410789023374	CMakeFiles/article_parser.dir/C_/Users/21403/DevEcoStudioProjects/LK3/entry/src/main/cpp/article_parser.cpp.o	1d5ff5eccff2d7f7
+1610	2418	7994410791848938	C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/build/intermediates/cxx/RelWithDebInfo/2o636t3d/obj/arm64-v8a/libt2s.so	cfa610f4f3f4e2e1
+2114	3541	7994410803086314	C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/build/intermediates/cxx/RelWithDebInfo/2o636t3d/obj/arm64-v8a/libarticle_parser.so	83cae54f66c82fb0

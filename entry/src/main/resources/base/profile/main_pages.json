@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ArticleDetail",
+    "pages/Settings",
+    "pages/SearchView",
+    "pages/AuthView",
+    "pages/HistoryView",
+    "pages/CollectionView",
+    "pages/CollectionDetailView",
+    "pages/AboutView",
+    "pages/MessageCenterView",
+    "pages/UserProfileView"
+  ]
+}

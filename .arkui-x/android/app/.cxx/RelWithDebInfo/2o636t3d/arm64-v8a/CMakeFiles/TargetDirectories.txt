@@ -1,0 +1,4 @@
+C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/.cxx/RelWithDebInfo/2o636t3d/arm64-v8a/CMakeFiles/t2s.dir
+C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/.cxx/RelWithDebInfo/2o636t3d/arm64-v8a/CMakeFiles/article_parser.dir
+C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/.cxx/RelWithDebInfo/2o636t3d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/21403/DevEcoStudioProjects/LK3/.arkui-x/android/app/.cxx/RelWithDebInfo/2o636t3d/arm64-v8a/CMakeFiles/rebuild_cache.dir

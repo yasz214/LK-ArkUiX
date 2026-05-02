@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色模式：覆盖 launch_bg_light 为深色背景 -->
+    <color name="launch_bg_light">#0B0E14</color>
+    <color name="transparent">#00000000</color>
+</resources>

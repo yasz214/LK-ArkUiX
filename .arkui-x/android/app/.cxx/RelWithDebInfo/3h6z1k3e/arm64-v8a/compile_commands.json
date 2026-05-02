@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/21403/DevEcoStudioProjects/LK/.arkui-x/android/app/.cxx/RelWithDebInfo/3h6z1k3e/arm64-v8a",
+  "command": "C:\\Users\\21403\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/21403/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dt2s_EXPORTS -std=c++17 -O3 -O2 -g -DNDEBUG -fPIC -O3 -o CMakeFiles\\t2s.dir\\t2s_engine.cpp.o -c C:\\Users\\21403\\DevEcoStudioProjects\\LK\\.arkui-x\\android\\app\\src\\main\\cpp\\t2s_engine.cpp",
+  "file": "C:\\Users\\21403\\DevEcoStudioProjects\\LK\\.arkui-x\\android\\app\\src\\main\\cpp\\t2s_engine.cpp"
+}
+]

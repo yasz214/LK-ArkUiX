@@ -1,0 +1,37 @@
+# ==========================================
+# 1. 极致混淆与安全配置
+# ==========================================
+-enable-property-obfuscation
+-enable-toplevel-obfuscation
+-enable-filename-obfuscation
+-enable-export-obfuscation
+
+# ==========================================
+# 2. 极限体积优化配置 (新增)
+# ==========================================
+# 移除所有不必要的空格和换行符，极大减小包体积
+-compact
+# 移除所有 console.* 打印语句，不仅减小体积，还能防止泄露调试信息
+-remove-log
+
+# ==========================================
+# 3. 防崩溃安全白名单 (必须添加)
+# ==========================================
+# 警告：开启了 property-obfuscation 后，所有与服务端交互的 JSON 字段、
+# 数据库字段、AppStorage 绑定的键名必须豁免，否则会导致数据解析全部变成 undefined！
+
+-keep-property-name
+# --- Axios 响应基础结构 ---
+code, data, msg
+# --- NovelItem 实体 ---
+id, type, title, action_type, action_params, pic_url, parent_group_name, hits
+# --- NovelGroup 实体 ---
+gid, items
+# --- ArticleData 实体 ---
+aid, uid, summary, content
+# --- RequestData 请求参数 ---
+class, page, pageSize, simple
+# --- BaseBody 请求基础体 ---
+platform, client, sign, ver_name, ver_code, gz, d
+# --- 持久化存储 (PersistentStorage / AppStorage) 键名 ---
+appColorMode, autoSimp
